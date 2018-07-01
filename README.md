@@ -1,8 +1,12 @@
 # GradientDescent
 
-Project to learn how to do gradient descent.
+Project to learn how about gradient descent.
 
-Simple unconstrained gradient descent
+Two different methods are implemented:
+
+(1) Simple, unconstrained gradient descent
+(2) Constrained gradient descent for equality constraints using penalty method
+
 
 Input start vector and function to be optimized into "optimizer" function
 

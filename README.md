@@ -1,6 +1,6 @@
 # GradientDescent
 
-Project to learn how about gradient descent.
+Project to learn about gradient descent.
 
 Two different methods are implemented:
 
